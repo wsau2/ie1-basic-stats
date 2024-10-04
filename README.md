@@ -46,3 +46,5 @@ Make sure that you have a JDK installed and that the JAVA_HOME environment varia
 
 
 Hello 2
+
+Goodbye 2
